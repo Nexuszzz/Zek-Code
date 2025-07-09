@@ -1,0 +1,14 @@
+{
+  "name": "smart-farm-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Smart Farm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mqtt": "^5.3.2",
+    "ws": "^8.15.1"
+  }
+}
