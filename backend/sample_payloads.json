@@ -1,0 +1,12 @@
+{
+  "subscribe": {
+    "sensor/suhu": "25.3",
+    "sensor/kelembaban": "60",
+    "sensor/cahaya": "300"
+  },
+  "publish": {
+    "control/pompa": "ON",
+    "control/lampu": "OFF",
+    "control/kipas": "ON"
+  }
+}
